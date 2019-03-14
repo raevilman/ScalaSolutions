@@ -1,6 +1,7 @@
 # ScalaSolutions
+**Uses Scala, Slick and H2 Database Engine**
 
-Task #1
+## Task #1
 Given a string 
 1) return the most occurring character 
 2) return the least occurring character
@@ -10,7 +11,7 @@ sample String:
 hluwriwepo;lgjhs,jgcksdfol'w;ieuhf ujweyhflvsdlv';.,asnncbsnbcnbsadnbvhwgdsndm
 
 
-Task #2:
+## Task #2:
 
 StudentCourse --StudentId, StudentName ,CourseId, StartDate,EndDate
 Course -- CourseId,CourseName,CourseDuration,Credit,Cost
